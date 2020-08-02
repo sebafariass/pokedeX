@@ -1,0 +1,47 @@
+/* estilos navbar */
+.logo__pokedex {
+  width: 60%;
+  margin-left: 50px;
+}
+
+/* color navbar */
+.navbar {
+  background-color: royalblue;
+}
+
+/* mayuscula de titulo */ 
+.uppCaseHeader {
+  text-transform: uppercase;
+}
+
+
+/* centrado de imagen reversa y anversa*/
+.row {
+  text-align: center;
+}
+
+.titulo {
+  color: brown;
+  font-weight: bolder;
+}
+
+
+/* tabla valor  radius*/ 
+.table {
+  border-radius: 10%;
+}
+
+
+/*estilos footer*/
+footer{
+  background-color: royalblue;
+color: white;
+padding: 40px;
+}
+
+
+/*bold de footer */ 
+.footy{
+  font-weight: bold;
+}
+
