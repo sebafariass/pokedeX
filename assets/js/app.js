@@ -121,7 +121,7 @@ function searchPokemanList(nombre) {
     
         },
         error: function() {
-            alert("Ops, intentalo nuevamente"); //mensaje ALERT SI MUESTRA ERROR
+            alert("Ops, intentalo nuevamente"); //mensaje ALERT,  MUESTRA ERROR
         }
         
     });
